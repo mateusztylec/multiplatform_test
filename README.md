@@ -1,3 +1,4 @@
+![workflow status](https://github.com/mateusztylec/system-info/actions/workflows/ci.yml/badge.svg)
 # System-info
 This project is a container that checks and prints information about the currently running system. The project is implemented using Python and the FastAPI framework.
 
