@@ -2,6 +2,9 @@ name: Docker Image deploy
 
 on: 
   push:
+    paths-ignore:
+      - "README.md"
+      - ".gitignore"
     branches:
     - "main"
 
